@@ -1,6 +1,6 @@
 # testTaskToDoList
 testTaskToDoList 
-![](https://github.com/Kengii/testTaskToDoList/blob/main/Readme%20assets/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2016.40.34.mp4)
+![]()
 
 
 ## Task
